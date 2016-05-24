@@ -11,7 +11,7 @@
 
 class ChampEMG{
   protected:
-  Vecteur B;
+  Vecteur B;////salut////
   Vecteur E;
   double const c=299792458;
   public:
